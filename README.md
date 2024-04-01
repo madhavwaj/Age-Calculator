@@ -4,8 +4,6 @@ Certainly! Here's a concise README for your GitHub repository:
 
 ---
 
-![Age Calculator Preview](preview.png)
-
 ## About
 Age Calculator is a simple web application built with HTML, CSS, and JavaScript that allows users to quickly calculate their age based on their birthdate.
 
